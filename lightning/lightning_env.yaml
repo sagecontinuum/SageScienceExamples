@@ -1,0 +1,11 @@
+name: sage-lightning
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - scipy
+  - xarray
+  - jupyter
+  - matplotlib
